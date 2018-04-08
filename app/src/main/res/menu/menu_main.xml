@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.shubham.popular.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="Search"
+        android:orderInCategory="50"
+        android:icon="@drawable/search_gray"
+        app:showAsAction="always" />
+</menu>
